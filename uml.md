@@ -17,3 +17,12 @@ Es de mucha utilidad para los programadores.
   - Java, C#, Python o cualquier otro.
 - Incluso se puede usarse para realizar esquemas y documentación de procesos que no tenga que ver con informática o programación
 - UML es para representar lo sucedido en proyecto de software
+
+## Herramientas para modelado UML
+
+1. [app.diagrams.net](https://app.diagrams.net/)
+   Trabaja sobre el navegador también puedes instalar la app en tu pc
+
+2. [lucidchart](https://www.lucidchart.com/pages/) Trabaja en el navegador
+
+3. [visio](https://www.edrawsoft.com/es/ad/edraw-max/visio-alternative.html?gclid=Cj0KCQiAoNWOBhCwARIsAAiHnEi235N4LjtSMZ2MZ-AlhTq0cwQIP0S3y0GSQ37X55pQMq8YKUqYizgaAhj1EALw_wcB) Trabaja en el navegador
